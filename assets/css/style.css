@@ -40,15 +40,17 @@
     margin-left: 25px;
 }
 
+/*changes color of header text*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*changes font size of body*/
 p {
     font-size: 16px;
 }
-
+/*body background color*/
 body {
     background-color: #d9dcd6;
 }
@@ -61,7 +63,7 @@ body {
     background-size: cover;
     background-position: center;
 }
-
+/* page formatting*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -95,7 +97,7 @@ body {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* i feel like there's a way to make this section bearable but i'm unable to distinguish horrible code from correct code*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -191,7 +193,7 @@ body {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* footer*/
 .footer {
     padding: 30px;
     clear: both;
