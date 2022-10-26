@@ -8,14 +8,15 @@ The goal behind this project was to use semantic HTML elements to increase a web
 
 Website can be reached at [https://carterblake.github.io/module-one-challenge/]
 
-The following links are screenshots of the intended website layout
+The following images are screenshots of the intended website layout
 ![web-screenshot-one](assets/images/web-screenshot-one.png)
 ![web-screenshot-two](assets/images/web-screenshot-two.png)
 ![web-screenshot-three](assets/images/web-screenshot-three.png)
 
 ## Credits
 
-I relied heavily on ![Mozilla-Developer-Network](https://developer.mozilla.org/en-US/docs/Web/HTML) for help with formatting.
+I relied heavily on Mozilla-Developer-Network for help with formatting.
+[https://developer.mozilla.org/en-US/docs/Web/HTML]
 
 ## License
 
